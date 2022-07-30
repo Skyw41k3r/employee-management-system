@@ -8,3 +8,4 @@ This homework utilized my knowledge of Node.js, Inquire, and MySQL. This databas
  This code is created to function in the terminal. To begin, the user must first run npm start in the terminal.
 
 # Preview 📷
+![image](https://user-images.githubusercontent.com/100745702/181949469-3e2ff8d9-9fe8-4da4-b8db-a45290930b00.png)
