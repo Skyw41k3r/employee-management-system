@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1",
+    "util": "^0.12.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sql-employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdellis490/SQL-Employee-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdellis490/SQL-Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/jdellis490/SQL-Employee-Tracker#readme",
+  "devDependencies": {
+    "console.table": "^0.10.0"
+  }
+}
